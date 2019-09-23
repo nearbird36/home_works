@@ -1,0 +1,25 @@
+.content {
+    border-style: dotted;
+    border-color: bisque;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(70, 138, 226);
+}
+
+.text {
+    color: bisque;
+    background-color: rgb(145, 168, 190);
+}
+
+span {
+    color: bisque;
+    background-color: rgb(145, 168, 190);
+}
+
+.text-mark {
+    color: chocolate;
+    background-color: #000000;
+    margin-top: -10px;
+}
